@@ -1,0 +1,316 @@
+.navbar-logo {
+    float: left;
+    line-height: 20px;
+}
+div#Kesehatan {
+    background-color: #9BDBFF;
+}
+div#Pertumbuhan {
+    background-color: #9BDBFF;
+}
+div#Kebiasaan {
+    background-color: #9BDBFF;
+}
+div#Mainan {
+    background-color: #9BDBFF;
+}
+div#Lingkungan {
+    background-color: #9BDBFF;
+}
+div#AboutUs {
+    background-color: #9BDBFF;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    font-size: 16px;
+}
+.cobaan p{
+	font-size:40px;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: #333;
+    background-color: transparent;
+}
+
+.row-kebiasaan {
+    display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.column-kebiasaan {
+    flex: 25%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* about */
+.w3aboutus {
+    padding: 8% 0px;
+}
+.w3about-kebiasaan {
+    padding: 4% 0px;
+}
+.w3aboutus a:visited{
+	color: #155BFB;
+}
+
+.w3aboutus a:hover{
+	color: #333;
+}
+
+/* about */
+.w3aboutus-page {
+    padding: 2% 0px;
+}
+.w3aboutus-page-pertumbuhan {
+    padding: 0 0px;
+}
+
+.w3aboutus-page a:visited{
+	color: #155BFB;
+}
+
+.w3aboutus-page a:hover{
+	color: #333;
+}
+
+
+.aboutus-txt {
+    flex: 1;
+	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+	-webkit-flex: 1;
+	-ms-flex: 1;
+	
+}
+.aboutus-txt p {
+    padding-right: 10px;
+	font-family: 'Cream', sans-serif;
+	color: #155BFB;
+	
+}
+
+.aboutus-img img{
+	max-height:300px;
+	max-width:300px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.text-center{
+	text-align:center;
+	color: #155BFB;
+	font-size: 20px;
+}
+
+.text-center-aboutUs{
+	text-align:center;
+	color: #0970AB;
+	font-size: 20px;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.banner-img{
+	vertical-align: middle;
+	max-width: 50%;
+	padding-top: 15%;
+}
+
+.about-txt-kiri{
+	padding-left:10%;
+	margin-top:auto;
+	margin-bottom:auto;
+}
+
+.navbar-right{
+	margin-top:1%;
+}
+
+.about-txt-kiri p {
+    padding-right: 10px;
+	font-size: 20px;
+	font-family: 'Cream', sans-serif;
+	color: #155BFB;
+	
+}
+
+.w3ls-about a:visited{
+	color: #155BFB;
+}
+
+.w3ls-about a:hover{
+	color: #333;
+}
+
+
+.about-img img.img-responsive {
+    width : 60%;
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	/* border-radius: 5px; 
+    -webkit-box-shadow: 0px 0px 14px 0px rgba(249, 4, 4, 0.62);
+    -moz-box-shadow: 0px 3px 58px 1px rgb(251, 11, 11);
+    box-shadow: 0px 3px 58px 1px rgb(251, 11, 11); */
+}
+.about-txt-kiri h2 {
+    font-size: 35px;
+	color: #155BFB;
+}
+
+
+.aboutus-img img.img-responsive {
+    width : 60%;
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	/* border-radius: 5px; 
+    -webkit-box-shadow: 0px 0px 14px 0px rgba(249, 4, 4, 0.62);
+    -moz-box-shadow: 0px 3px 58px 1px rgb(251, 11, 11);
+    box-shadow: 0px 3px 58px 1px rgb(251, 11, 11); */
+}
+
+.img-aboutUs{
+	margin-left:auto;
+	margin-right:auto;
+	width:60%;
+	display:block;
+}
+.img-lingkungan{
+	margin-left:auto;
+	margin-right:auto;
+	width:30%;
+	display:block;
+}
+.agile-list span.arrow {
+    font-size: 25px;
+    color: blue;
+    vertical-align: sub;
+    padding-right: 10px;
+}
+.aboutus-txt h2 {
+    font-size: 35px;
+	color: #155BFB;
+}
+.img-center{
+	margin-left:auto;
+	margin-right:auto;
+}
+.img-abs{
+	position: absolute;
+	top:10px;
+	background: transparent;
+}
+	
+.navbar-default .navbar-nav > li > a.activated{
+	color:#333;
+}
+	
+.about-txt-kebiasaan p.notBoldHeader{
+	font-size: 40px;
+	color:#0970AB;
+}
+p.notBoldHeader{
+	font-size: 40px;
+}
+.about-txt-kebiasaan p.desc{
+	text-align:justify;
+	color: #032845;
+}
+p.desc{
+	text-align:justify;
+	color: #032845;
+}
+.aboutus-txt a:link {
+	color: #155BFB;
+}
+
+.aboutus-txt a:visited {
+	color: #155BFB;
+}
+
+.aboutus-txt a:hover {
+	color: red;
+}
+
+/* //about */
+
+
+.w3-banner-heading-pertumbuhan {
+     color: white;
+}
+.w3-banner-heading-pertumbuhan h1 {
+    font-size: 50px;
+    color: #fff;
+    padding: 25% 0 10px;
+    font-weight: 600;
+}
+.w3-banner-heading-pertumbuhan p {
+    font-size: xx-large;
+	color: #A7DBD8;
+}
+
+
+.w3lshome-pertumbuhan {
+    background: url('../images/JPG/Pertumbuhane1.jpg')no-repeat;
+    min-height: 630px;
+    background-size: 100%;
+	text-align: center;
+	margin-top: 4%
+}
+
+.w3lshome-kesehatan {
+    background: url('../images/JPG/kesehatane1.jpg')no-repeat;
+    min-height: 630px;
+    background-size: 100%;
+	text-align: center;
+	margin-top: 4%
+}
+
+.w3lshome-kebiasaane1{
+    background: url('../images/JPG/Kebiasaane1.jpg')no-repeat;
+    min-height: 630px;
+    background-size: 100%;
+	text-align: center;
+	margin-top: 4%
+}
+
+.w3lshome-mainan {
+	margin-top: 4%
+}
+.w3lshome-kebiasaan {
+	margin-top: 0%
+}
+.center-image{
+	width: 100%;
+	background-color: #d5d4fe;
+}
+.center-image-lingkungan{
+	width: 100%;
+	background-color: #ffec5f;
+}
+.w3lshome-lingkungan {
+	margin-top: 4%
+}
+.about-txt-kebiasaan{
+    flex: 1;
+	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+	-webkit-flex: 1;
+	-ms-flex: 1;
+
+}
+.about-txt-kebiasaan p {
+    padding-right: 10px;
+	font-family: 'Cream', sans-serif;
+	color: #155BFB;
+	font-size: 20px;	
+}
+

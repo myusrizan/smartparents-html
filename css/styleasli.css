@@ -1,0 +1,7 @@
+.w3lshome {
+    /* background: url(images/banner3.jpg); */
+    background: url('../images/banner1.jpg')no-repeat;
+    min-height: 700px;
+    background-size: cover;
+	text-align: center;
+}

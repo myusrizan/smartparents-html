@@ -1,0 +1,7 @@
+navbar right kasi margin/padding 14px
+
+css yang dipake dari bs:
+.w3lshome // banner
+navbar-right 
+.w3ls-navbar //banner
+.agileits-w3layouts
